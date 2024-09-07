@@ -16,6 +16,7 @@ namespace ModSaveBackups
             public static void SavePatch(PluginInfo pluginInfo)
             {
                 ModSaveSlots.PushBackups(pluginInfo);
+                backupIndex = 0;
             }
 
             [HarmonyPrefix]
