@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [v1.0.2] - 2024-09-19
+## [v1.0.2] - 2024-09-20
 
 ### Updated
 - SailwindModdingHelper dependency version to 2.1.1
